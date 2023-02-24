@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardoorozco&label=Profile%20views" alt="ricardo orozco" /> </p>
 
-- 🔭 I’m currently working on [Sophos Solutions](https://www.sophossolutions.com/) [client Banistmo](https://www.banistmo.com/)
+- 🔭 I’m currently working on [Sophos Solutions](https://www.sophossolutions.com/) client [Banistmo](https://www.banistmo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
