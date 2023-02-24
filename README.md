@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/orozcoleonricardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo orozco" height="30" width="40" /></a>
 </p>
-
+<hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoorozco&show_icons=true&locale=en&layout=compact" alt="ricardo orozco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoorozco&show_icons=true&locale=en" alt="ricardo orozco" /></p>
