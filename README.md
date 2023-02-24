@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardoorozco" alt="ricardoorozco" /></a> </p>
 
-- 🔭 I’m currently working on [Sophos Solutions](https://www.sophossolutions.com/)
+- 🔭 I’m currently working on [Sophos Solutions](https://www.sophossolutions.com/) [client Banistmo](https://www.banistmo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
